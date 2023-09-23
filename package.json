@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "chart.js": "^4.4.0",
     "primeicons": "^6.0.1",
     "primevue": "^3.34.1",
     "vue": "^3.3.4",
